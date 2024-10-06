@@ -1,0 +1,7 @@
+{
+  "houseColors": ["Red", "Green", "Ivory", "Yellow", "Blue"],
+  "nationalities": ["Englishman", "Spaniard", "Ukrainian", "Japanese", "Norwegian"],
+  "drinks": ["Coffee", "Tea", "Milk", "Orange Juice", "Water"],
+  "cigars": ["Old Gold", "Kools", "Chesterfields", "Lucky Strike", "Parliaments"],
+  "pets": ["Dog", "Snails", "Fox", "Horse", "Zebra"]
+}
